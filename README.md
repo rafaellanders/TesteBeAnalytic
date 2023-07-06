@@ -18,3 +18,8 @@ Para Integrar os dados, optei por fazer diretamente em código. Criando minhas c
 
 *: Devido à falta de tempo, tive um problema de autenticação com o GBQ e não consegui resolver. Então optei por salvar o Data Frame como CSV e importar manualmente via interface do GBQ.
 
+
+# Link para o Sheets
+  https://docs.google.com/spreadsheets/d/1zIuL62Bsx-uFqzDENKfQiIruIChpuFdcsUM9AkfOogs/edit?usp=sharing
+
+
